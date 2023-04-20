@@ -16231,6 +16231,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ícaro\\Desktop\\Biblioteca\\Views\\Usuario\\Listagem.cshtml",
+      "TargetPath": "Views\\Usuario\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ícaro\\Desktop\\Biblioteca\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -16271,13 +16276,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ícaro\\Desktop\\Biblioteca\\Views\\Usuario\\_FormCadastro.cshtml",
+      "TargetPath": "Views\\Usuario\\_FormCadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ícaro\\Desktop\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
       "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ícaro\\Desktop\\Biblioteca\\Views\\Usuario\\Edicao.cshtml",
+      "TargetPath": "Views\\Usuario\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ícaro\\Desktop\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ícaro\\Desktop\\Biblioteca\\Views\\Usuario\\Cadastro.cshtml",
+      "TargetPath": "Views\\Usuario\\Cadastro.cshtml",
       "FileKind": "mvc"
     },
     {

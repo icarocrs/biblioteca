@@ -55,3 +55,7 @@ C:\Users\Ícaro\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.Cop
 C:\Users\Ícaro\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Ícaro\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Ícaro\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Ícaro\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Ícaro\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+C:\Users\Ícaro\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+C:\Users\Ícaro\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormCadastro.cshtml.g.cs
