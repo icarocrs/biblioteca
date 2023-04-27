@@ -10,13 +10,18 @@ namespace Biblioteca.Controllers
 
       public IActionResult Cadastro()
         {
-            
+            Autenticacao.CheckLogin(this);
+            Autenticacao.verificaSeUsuarioEAdmin(this);
             return View();
         }
 
         [HttpPost]
         public IActionResult Cadastro(Usuario u)
         {
+            Autenticacao.CheckLogin(this);
+            Autenticacao.verificaSeUsuarioEAdmin(this);
+
+            u.Senha = Criptografia.GerarMD5(u.Senha);
             UsuarioService usuarioService = new UsuarioService();
 
             if(u.Id == 0)
